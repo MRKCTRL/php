@@ -1,0 +1,14 @@
+[
+  {
+    {
+      "term":"css",
+    "definition":"css"
+  },
+    "term":"js",
+    "definition":"javascript"
+  },
+  {
+    "term":"php",
+    "definition":"php: hypertext prepocessor"
+  }
+]
